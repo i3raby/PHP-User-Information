@@ -13,6 +13,6 @@ This project is a PHP script that retrieves and displays information about a web
 
 1. Clone this repository or download the files to your server.
 
-   ```bash
-   git clone https://github.com/i3raby/PHP-User-Information.git
+```bash
+git clone https://github.com/i3raby/PHP-User-Information.git
 ```
